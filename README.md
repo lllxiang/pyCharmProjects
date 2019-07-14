@@ -22,29 +22,27 @@ README
         产生标签cmap.npy and cmap.bmp file
         * [gen-list-file.py]():产生用于描述图片位置的路径txt文件
  
+## 训练记录
+* 20190755：
+    * 说明：
+    * miou
+    * 单类iou：
+* 20190756
 
-learning-python
----
-学习python的基础语法
-
-
-caffe-mnist
----
-caffe-mnist的python接口测试
-
-python-opencv
----
-python opencv相关的函数学习
-
-python-numpy
----
-python 的numpy相关模块学习
-
-python-vistom
----
-vistom相关知识点学习
-
-python-tools
----
-about-gen-data
-
+## 数据集说明
+* 唐山车道线数据集
+    * 数据集概述：来自qingxin.wang整理的数据集。最终版本3209张图片。
+    共计24 35 类两种标注json文件。原始bmp和json文件分别来自：
+        * bmp file dir: 
+        * json file dir:/home/lx/.....
+    * 数据集一：
+        * 说明：
+        * 目录：/home/lx/。。。。。
+    * 数据集二：
+        * 说明：
+        * 目录：
+* 环视地面表现及路沿
+    * 数据集概述：
+    * 数据处理：
+    * 数据集一：
+    

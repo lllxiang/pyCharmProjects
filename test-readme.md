@@ -268,13 +268,33 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 - [ ] 测试
 - [ ] 交付
 
-您可以使用这个功能来标注某个项目各项任务的完成情况。
->20190755:模型a
+训练记录。
+>20190755:模型asads dsa dsad asdas dsda dwqw dsad sadad sad wq dasd sad sad
+d sa wq dsa 
+sa dwq dsa
+ da
+ d asdwq 
+ asd  dwq das das 
 >>20190756:在GitHub的**issue**中使用该语iss
 >>>20190712:d ada的阿达
 >>>>20196589:d ad dad 
 >>>>>2019859452
- 
+
+
+数据集说明
+----
+* 唐山车道线数据集
+    * 数据集概述：的阿达撒旦
+    * 数据集一：
+        * 说明：
+        * 目录：
+    * 数据集二：
+        * 说明：
+        * 目录：
+* 环视地面表现及路沿
+    * 数据集概述：
+    * 数据集一：
+    
 ## 块引用
 
 ### 常用于引用文本
