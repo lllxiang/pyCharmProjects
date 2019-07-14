@@ -17,8 +17,9 @@ README
     * 来源于网络的图片
     * GitHub仓库中的图片
  * [python-tools](python-tools)
-    * [about-gen-data](about-gen-data):数据集处理相关的脚本
-        * [gen_cmap.py](gen_cmap.py):产生标签cmap.npy and cmap.bmp file
+    * [about-gen-data](python-tools/about-gen-data):数据集处理相关的脚本
+        * [gen_cmap.py](python-tools/about-gen-data/gen_cmap.py):
+        产生标签cmap.npy and cmap.bmp file
         * [gen-list-file.py]():产生用于描述图片位置的路径txt文件
  
 
