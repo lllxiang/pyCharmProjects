@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44d85732-1cf1-4ad6-8a87-473fb7e8c9c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <first_editor relative-caret-position="357">
+                <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -93,17 +91,13 @@
             <path>
               <item name="pyCharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyCharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyCharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyCharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="python-opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="python-tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyCharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyCharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="python-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="about-gen-data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,7 +218,7 @@
       <updated>1562511273779</updated>
       <workItem from="1562511275763" duration="2764000" />
       <workItem from="1563091628449" duration="2607000" />
-      <workItem from="1563115701576" duration="2987000" />
+      <workItem from="1563115701576" duration="3610000" />
     </task>
     <task id="LOCAL-00001" summary="learning os.getpwd() and chpwd()">
       <created>1563117168182</created>
@@ -233,11 +227,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563117168182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change readme file">
+      <created>1563118727284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563118727284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8358000" />
+    <option name="totallyTimeSpent" value="8981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -271,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learning os.getpwd() and chpwd()" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning os.getpwd() and chpwd()" />
+    <MESSAGE value="change readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change readme file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyCharmProjects$imread_imweite.coverage" NAME="imread-imweite Coverage Results" MODIFIED="1562513013454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-opencv" />
@@ -346,8 +348,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <first_editor relative-caret-position="357">
+            <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
