@@ -31,15 +31,16 @@ cmap = np.array([[0,0,0],
 [18,100,100]])
 
 print(cmap.shape)
-im = np.zeros([25*20,200,3],dtype=np.uint8)
+im = np.zeros([25*25,200,3],dtype=np.uint8)
 os.chdir('../python-tools/about-gen-data')
 print('now dir=', os.getcwd())
 
 for i in range(25):
+    print(i,i*25)
     im[i*25:(i+1)*25-1,:,:] = cmap[i,:]
 
-np.transpose(im,(0,2,1))
-
+im = im[:,:, (2, 1, 0)]
+print(im.shape)
 cv2.imshow('im',im)
 cv2.waitKey(0)
 cv2.imwrite('cmap.bmp',im)
